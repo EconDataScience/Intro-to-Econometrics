@@ -1,4 +1,4 @@
-setwd("C:/Users/sasha/Google Drive/590")
+setwd("C:/where/Files/Are/Located")
 
 mroz <- read.csv("mroz.csv")
 head(mroz)
