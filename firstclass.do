@@ -1,6 +1,6 @@
 log using log_day1, replace
 
-cd "C:\Users\ANaumenko\Dropbox\590\firstclass"
+cd "C:\Users\where\files\are\located"
 
 clear
 import delimited mroz 
